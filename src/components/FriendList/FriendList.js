@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { List, Item, Status, Img, Name } from './Styles';
+import { List, Item, Status, Img, Name } from './styles';
 
 function FriendList({ friends, isOnline }) {
   return (
